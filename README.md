@@ -1,110 +1,94 @@
-<div align="center">
+# Aditya Prakash <a href="https://www.linkedin.com/in/aditya-prakash-4b8a70323"><img src="https://skillicons.dev/icons?i=linkedin" height="42" align="right"/></a><a href="mailto:aditya.prakash4719@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="42" align="right"/></a>
 
-# Aditya Prakash
+Mobile Developer • Backend Engineering Learner
 
-Mobile & Backend Developer
-
-Building production-oriented applications with Flutter and currently exploring scalable backend systems using Java & Spring Boot.
-
-</div>
+Building production-oriented Flutter applications while learning scalable backend development using Java & Spring Boot.
 
 ---
 
-## Profile
+## Engineering Focus
 
-Focused on application architecture, backend systems, and building software that scales beyond prototype-level projects.
-
-Current interests include:
-
-- Backend Engineering
-- Distributed Systems Fundamentals
-- API Design
-- Authentication & Authorization
-- Database Optimization
-- Caching Strategies
-- System Design
+- Backend Development
+- REST API Design
+- Authentication Systems
+- Database Design
+- Application Architecture
+- Production-Oriented Development
 
 ---
 
 ## Technology Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,mysql,firebase,git,github,postman" />
-</p>
-
----
-
-## Current Exploration
-
-```text
-Backend Development with Spring Boot
-REST API Architecture
-Relational Database Design
-Redis Caching
-Docker Fundamentals
-Secure Authentication Systems
-Scalable Application Design
-```
-
----
-
-## Selected Work
-
-### Collaborative Task Management System
-
-Group-oriented task management platform focused on scalable backend architecture, role-based access control, and real-time collaboration workflows.
-
-**Planned Stack**
-- Spring Boot
-- MySQL/PostgreSQL
-- Redis
-- Docker
-- JWT Authentication
-
----
-
-### Flutter Media Application
-
-Production-focused Flutter application with optimized local storage handling, media workflows, download management, and responsive UI architecture.
-
----
-
-## Engineering Goals
-
-- Build production-grade backend systems
-- Learn infrastructure fundamentals
-- Improve software architecture decisions
-- Contribute to open-source projects
-- Develop full-stack deployment expertise
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark" />
-
-<img height="170" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true" />
-
-</div>
-
----
-
-## Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true" />
-
----
-
-## Contact
+### Languages
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
+<a href="https://dart.dev"><img src="https://skillicons.dev/icons?i=dart" height="48"/></a>&nbsp;
+<a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" height="48"/></a>
+<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="48"/></a>
+<img src="https://skillicons.dev/icons?i=c" height="48"/>
   
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-181717?style=flat&logo=gmail&logoColor=white" />
-  </a>
 </p>
+
+### Frameworks & Technologies
+
+<p align="left">
+<a href="https://flutter.dev"><img src="https://skillicons.dev/icons?i=flutter" height="48"/></a>&nbsp;
+<a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" height="48"/></a>&nbsp;
+<a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase" height="48"/></a>
+</p>
+
+### Databases & Tools
+
+<p align="left">
+<a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" height="48"/></a>&nbsp;
+<a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" height="48"/></a>&nbsp;
+<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" height="48"/></a>&nbsp;
+<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" height="48"/></a>
+</p>
+
+---
+
+## Currently Learning
+
+- Java Backend Development
+- Spring Boot
+- REST API Development
+- Authentication & Authorization
+- Relational Database Design
+- Backend Application Architecture
+
+---
+
+## Projects
+
+### Imagene
+
+Production-oriented Flutter application focused on media workflows, optimized local storage handling, responsive UI architecture, and download management systems.
+
+<p align="left"><a href="https://play.google.com/store/apps/details?id=com.aditya.imagene"><img src="https://img.shields.io/badge/Google%20Play-ImageNe-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://aditya-prakash-047.github.io/Imagene-privacy-policy/"><img src="https://img.shields.io/badge/Privacy%20Policy-1F2937?style=for-the-badge"/></a></p>
+
+- Download workflow management
+- Persistent local storage handling
+- Responsive Flutter UI
+- Release & version management
+- Optimized navigation architecture
+
+---
+
+### TripLog
+
+Travel-oriented Flutter application focused on trip organization, structured planning workflows, and clean mobile-first user experience design.
+
+- Structured trip management
+- Mobile-focused UI workflows
+- Stateful application flows
+- Persistent local data handling
+- Optimized navigation patterns
+
+---
+
+## Current Direction
+
+Learning backend engineering through hands-on development and architecture-focused project building.
+
+---
