@@ -1,8 +1,9 @@
 name: Metrics
 
 on:
-  schedule: [{cron: "0 */12 * * *"}]
   workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *"
 
 jobs:
   github-metrics:
@@ -12,7 +13,8 @@ jobs:
       contents: write
 
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
           token: ${{ secrets.GITHUB_TOKEN }}
