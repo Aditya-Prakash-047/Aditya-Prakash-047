@@ -1,4 +1,4 @@
-# Aditya Prakash <a href="https://www.linkedin.com/in/aditya-prakash-4b8a70323"><img src="https://skillicons.dev/icons?i=linkedin" height="42" align="right"/></a><a href="mailto:aditya.prakash4719@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="42" align="right"/></a>
+# Aditya Prakash <a href="https://www.linkedin.com/in/aditya-prakash-4b8a70323"><img src="https://skillicons.dev/icons?i=linkedin" height="40" align="right"/></a><a href="mailto:aditya.prakash4719@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" align="right"/></a>
 
 Mobile Developer • Backend Engineering Learner
 
