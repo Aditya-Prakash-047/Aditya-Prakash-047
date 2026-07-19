@@ -25,10 +25,11 @@ Building production-oriented Flutter applications while learning scalable backen
 <a href="https://dart.dev"><img src="https://skillicons.dev/icons?i=dart" height="48"/></a>&nbsp;
 <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" height="48"/></a>&nbsp;
 <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="48"/></a>&nbsp;
+<a href="https://devdocs.io/c-c-language/"><img src="https://skillicons.dev/icons?i=c" height="48"/>&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="48"/></a>&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="48"/></a>&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="48"/></a>&nbsp;
-<img src="https://skillicons.dev/icons?i=c" height="48"/>
+
   
 </p>
 
