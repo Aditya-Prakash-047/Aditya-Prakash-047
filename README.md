@@ -2,12 +2,13 @@
 
 Mobile Developer • Backend Engineering Learner
 
-Building production-oriented Flutter applications while learning scalable backend development using Java & Spring Boot.
+Building production-oriented Flutter applications while learning backend engineering with Java (Spring Boot) and Python (Django).
 
 ---
 
 ## Engineering Focus
 
+- Cross-Platform Application Development
 - Backend Development
 - REST API Design
 - Authentication Systems
@@ -37,7 +38,7 @@ Building production-oriented Flutter applications while learning scalable backen
 
 <p align="left">
 <a href="https://flutter.dev"><img src="https://skillicons.dev/icons?i=flutter" height="48"/></a>&nbsp;
-<a href="https://spring.io/projects/spring-framework"><img src="https://skillicons.dev/icons?i=spring" height="48"/></a>&nbsp;
+<a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" height="48"/></a>&nbsp;
 <a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" height="48"/></a>&nbsp;
 <a href="https://hibernate.org/"><img src="https://skillicons.dev/icons?i=hibernate" height="48"/></a>&nbsp;
 <a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase" height="48"/></a>
@@ -99,6 +100,7 @@ Travel-oriented Flutter application focused on trip organization, structured pla
 
 ## Current Direction
 
-Learning backend engineering through hands-on development and architecture-focused project building.
+- Learning backend engineering through hands-on development and architecture-focused project building.
+- Building full-stack applications by combining Flutter with modern backend frameworks such as Django and Spring Boot.
 
 ---
