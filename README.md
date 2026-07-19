@@ -23,8 +23,11 @@ Building production-oriented Flutter applications while learning scalable backen
 
 <p align="left">
 <a href="https://dart.dev"><img src="https://skillicons.dev/icons?i=dart" height="48"/></a>&nbsp;
-<a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" height="48"/></a>
-<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="48"/></a>
+<a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" height="48"/></a>&nbsp;
+<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="48"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="48"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="48"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="48"/></a>&nbsp;
 <img src="https://skillicons.dev/icons?i=c" height="48"/>
   
 </p>
@@ -33,7 +36,9 @@ Building production-oriented Flutter applications while learning scalable backen
 
 <p align="left">
 <a href="https://flutter.dev"><img src="https://skillicons.dev/icons?i=flutter" height="48"/></a>&nbsp;
-<a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" height="48"/></a>&nbsp;
+<a href="https://spring.io/projects/spring-framework"><img src="https://skillicons.dev/icons?i=spring" height="48"/></a>&nbsp;
+<a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" height="48"/></a>&nbsp;
+<a href="https://hibernate.org/"><img src="https://skillicons.dev/icons?i=hibernate" height="48"/></a>&nbsp;
 <a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase" height="48"/></a>
 </p>
 
@@ -43,14 +48,18 @@ Building production-oriented Flutter applications while learning scalable backen
 <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" height="48"/></a>&nbsp;
 <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" height="48"/></a>&nbsp;
 <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" height="48"/></a>&nbsp;
-<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" height="48"/></a>
+<a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea" height="48"/></a>&nbsp;
+<a href="https://www.jetbrains.com/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm" height="48"/></a>&nbsp;
+<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" height="48"/></a>&nbsp;
+<a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="48"/></a>
 </p>
 
 ---
 
 ## Currently Learning
 
-- Java Backend Development
+- Backend Development with Java and Python
+- Django & Django REST Framework
 - Spring Boot
 - REST API Development
 - Authentication & Authorization
